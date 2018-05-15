@@ -1,0 +1,2 @@
+# CSmode
+cmd socket python
